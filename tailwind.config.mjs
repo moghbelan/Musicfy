@@ -6,6 +6,9 @@ export default {
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
+    contener: {
+      center: true,
+    },
     extend: {
       colors: {
         background: "var(--background)",
