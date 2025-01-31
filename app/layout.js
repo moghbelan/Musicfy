@@ -4,12 +4,12 @@ import "./globals.css";
 const swiza = localFont({
   src: [
     {
-      path: "/fonts/swiza-regular-webFont.woff2",
+      path: "/fonts/swiza-regular-webfont.woff2",
       weight: "400",
       style: "normal",
     },
     {
-      path: "/fonts/swiza-medium-webFont.woff2",
+      path: "/fonts/swiza-medium-webfont.woff2",
       weight: "500",
       style: "normal",
     },
